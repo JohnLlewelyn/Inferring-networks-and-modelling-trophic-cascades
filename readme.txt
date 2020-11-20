@@ -53,7 +53,7 @@ Data:
 4. Compare position of extinct versus surviving species in the network
 
 Script (R):
-- pca.R
+- pca_position.R
 
 Data:
 - network_position_metrics.rds(from complete networks)
