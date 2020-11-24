@@ -1,11 +1,12 @@
 Guide to using script and data 
 	
-There are four main components:
+There are five main components:
 
 1) trophic niche space model development and validation
 2) inferring network models of the Late Pleistocene Naracoorte assemblage
 3) adding information on plant, invertebrate, and aquatic animal diversity, and then adding links to and from these nodes
-4) evaluating vulnerability to bottom-up coextinction cascades using an algorithm that iteratively calculates the product of the vulnerabilities of the focal  	 node’s resource nodes 
+4) evaluating vulnerability to bottom-up coextinction cascades using an algorithm that iteratively calculates the product of the vulnerabilities of the focal  	 node’s resource nodes
+5) assess the network position of extinct versus surviving vertebrate nodes
 
 1. Trophic niche space model development and validation
 Uses GloBI and Serengeti data to define trophic niche space models and measure how much these models over-estimate number of prey so adjustments can be made.
@@ -39,18 +40,18 @@ Data:
 - mammal.herb.density.rds (generated in Trophic niche space validation script.R)
 - Table S5 diet breadth.csv
 
-3. Convert RDS network files to csv files using R. Then with python, add information on plant, invertebrate and aquatic animal diversity, and use algorithm to estimate vulnerability to bottom-up cascades.
+3. and 4. Convert RDS network files to csv files using R. Then with python, add information on plant, invertebrate and aquatic animal diversity, and use an algorithm to estimate vulnerability to bottom-up cascades.
 Script (R):
 - extract.R
 
 Script (Python):
-- #####
+- co_extinctions_20_11_20.py
 
 Data:
 - x80nets.rds (generated in previous step) 
 - x18lump.rds (post-extinction networks, attached)
 
-4. Compare position of extinct versus surviving species in the network
+5. Compare position of extinct versus surviving species in the network
 
 Script (R):
 - pca_position.R
