@@ -41,6 +41,7 @@ Data:
 - Table S5 diet breadth.csv
 
 3. and 4. Convert RDS network files to csv files using R. Then with python, add information on plant, invertebrate and aquatic animal diversity, and use an algorithm to estimate vulnerability to bottom-up cascades.
+
 Script (R):
 - extract.R
 
@@ -48,7 +49,7 @@ Script (Python):
 - co_extinctions_20_11_20.py
 
 Data:
-- x80nets.rds (generated in previous step) 
+- x80nets_abbreviated.rds (generated in previous step - only 200 networks in abbreviated rds) 
 - x18lump.rds (post-extinction networks, attached)
 
 5. Compare position of extinct versus surviving species in the network
