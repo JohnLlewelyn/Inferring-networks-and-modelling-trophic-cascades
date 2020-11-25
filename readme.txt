@@ -5,11 +5,11 @@ There are five main components:
 1) trophic niche space model development and validation
 2) inferring network models of the Late Pleistocene Naracoorte assemblage
 3) adding information on plant, invertebrate, and aquatic animal diversity, and then adding links to and from these nodes
-4) evaluating vulnerability to bottom-up coextinction cascades using an algorithm that iteratively calculates the product of the vulnerabilities of the focal  	 node’s resource nodes
+4) evaluating vulnerability to bottom-up coextinction cascades using an algorithm that iteratively calculates the product of the vulnerabilities of the focal node’s resource nodes
 5) assess the network position of extinct versus surviving vertebrate nodes
 
 1. Trophic niche space model development and validation
-Uses GloBI and Serengeti data to define trophic niche space models and measure how much these models over-estimate number of prey so adjustments can be made.
+Uses GloBI and Serengeti data to define trophic niche space models and measure how much these models over-estimate number of prey (so adjustments can be made for this overestimation).
 
 Script (R): 
 - Trophic niche space validation script.R
