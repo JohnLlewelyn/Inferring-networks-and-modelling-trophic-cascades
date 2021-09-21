@@ -10,7 +10,7 @@ There are 2 main components:
 
 2) Naracoorte network models. This includes scripts for:
 - trophic niche space model development and validation (Trophic niche space validation script.R)
-- building network models (run Build Naracoorte pre-extinction networks.R)
-- calculating coextincton vulnerability (run nara_vuln.R)
+- building network models (Build Naracoorte pre-extinction networks.R)
+- calculating coextincton vulnerability (nara_vuln.R)
 
 Both components include a data folder containing the data needed to run the scripts.
