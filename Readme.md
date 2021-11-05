@@ -1,5 +1,5 @@
 ## Naracoorte ecological network models
-<img align="right" src="Naracoorte network.png" alt="Naracoorte Ecological Network" width="500" style="margin-top: 20px">
+<img align="right" src="Naracoorte network.png" alt="Naracoorte Ecological Network" width="450" style="margin-top: 20px">
 
 Scripts accompaning paper:
 
