@@ -8,11 +8,11 @@ Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Vi
 
 There are 2 main components:
 
-1. Artificial networks. Includes models and script to calculate vulnerability to coextinction of nodes in these models (using Bayesian network and simulation approach). Use script_toy_networks_vuln_edited.R to run analyses calculating coextinction vulnerability.
+1. Artificial networks. Includes models and script to calculate vulnerability to coextinction of nodes in these models (using Bayesian network and simulation approach). Use <code>script_toy_networks_vuln_edited.R</code> to run analyses calculating coextinction vulnerability.
 
 2. Naracoorte network models. This includes scripts for:
-- trophic niche space model development and validation (Trophic niche space validation script.R)
-- building network models (Build Naracoorte pre-extinction networks.R)
-- calculating coextincton vulnerability (nara_vuln.py)
+- trophic niche space model development and validation (<code>Trophic niche space validation script.R</code>)
+- building network models (<code>Build Naracoorte pre-extinction networks.R</code>)
+- calculating coextincton vulnerability (<code>nara_vuln.py</code>)
 
 Both components include a data folder containing the data needed to run the scripts.
