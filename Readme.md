@@ -1,5 +1,5 @@
 ## Naracoorte ecological network models
-<img align="right" src="thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
+<img align="right" src="Naracoorte network.png" alt="Naracoorte Ecological Network" width="200" style="margin-top: 20px">
 
 Scripts accompaning paper:
 
