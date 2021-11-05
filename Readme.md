@@ -1,8 +1,15 @@
 ## Naracoorte ecological network models
+<img align="right" src="thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
 
 Scripts accompaning paper:
 
 Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Visser, F Saltré, CJA Bradshaw. 2021. [Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network](http://doi.org/10.1111/ecog.06089). <em>Ecography</em> doi:10.1111/ecog.06089
+
+<strong>AUTHOR</strong>: John Llewelyn<br>
+<strong>CONTACT</strong>: john.llewelyn@flinders.edu.au<br>
+<strong>URL</strong>: <a href="http://GlobalEcologyFlinders.com">GlobalEcologyFlinders.com</a><br>
+<strong>INSTITUTION</strong>: Flinders University<br>
+<strong>RELEASE DATE</strong>: November 2021
 
 ## Guide to using scripts and data 
 
