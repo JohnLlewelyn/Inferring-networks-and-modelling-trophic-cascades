@@ -3,7 +3,7 @@
 
 Scripts accompaning paper:
 
-Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Visser, F Saltré, CJA Bradshaw. 2021. [Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network](http://doi.org/10.1111/ecog.06089). <em>Ecography</em> doi:10.1111/ecog.06089
+Llewelyn, J, G Strona, MC McDowell, CN Johnson, KJ Peters, DB Stouffer, SN de Visser, F Saltré, CJA Bradshaw. 2021. [Sahul’s megafauna species were vulnerable to plant-community changes due to their position in the trophic network](http://doi.org/10.1111/ecog.06089). <em>Ecography</em> 44: doi:10.1111/ecog.06089
 
 # Abstract
 Extinctions stemming from environmental change often trigger trophic cascades and coextinctions. Bottom–up cascades occur when changes in the primary producers in a
